@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welome to my GitHub profile! Here you will find some of the projects I have worked on in the past year, as I'm on the journey to becoming a completely self-taught developer. This is something I take great pride in, but always includes the humility to learn from people with more experience than me.
+Welome to my GitHub profile! Here you will find some of the projects I have worked on in the past year, as I'm on the journey to becoming a completely self-taught developer. This is something I take great pride in, but always with the humility to learn from people with more experience than me.
 
 
 🌱 I’m currently learning any way to become a better developer. Lately that has been different ways of deployment, and developing my React skills.
