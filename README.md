@@ -3,7 +3,7 @@
 Welome to my GitHub profile! Here you will find some of the projects I have worked on in the process of going from a social science major, to self-taught developer. This is something I take great pride in, but always with the humility to learn from people with more experience than me.
 
 
-🌱 I’m currently working as a developer, for Umain, while also, building out some smaller hobby projects in my free time.
+🌱 I’m currently working as a developer, for [Umain](https://www.umain.com/), while also, building out some smaller hobby projects in my free time.
 
 ⚡ I love to work on anything that has to do with web development. Creating cool solutions, web apps, primarily working on front-end, but always keen to work on anything that has to do with the back-end.
 
